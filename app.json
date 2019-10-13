@@ -1,0 +1,14 @@
+{
+  "name": "dcid",
+  "description": "Distributed Content ID",
+  "authors": [
+    {
+      "identifier": "Zachary Fogg <me@zfo.gg>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
